@@ -75,15 +75,3 @@ function oqtave_custom_ticker_shortcode_cb() {
 // Short code
 add_shortcode( 'oqtave-custom-ticker-shortcode', 'oqtave_custom_ticker_shortcode_cb' );
 
-
-
-
-
-
-
-
-
-
-
-
-
