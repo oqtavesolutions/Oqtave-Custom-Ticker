@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name: 		Oqtave Custom Ticker
- * Plugin URI: 			https://oqtavesolutions.com/
- * Description:			Oqtave Custom Ticker is a wordpress plugin for custom tickers.
- * Version:				1.0.0
- * Requires at least:	5.2
- * Requires PHP:		7.2
- * Author:				Oqtave Solutions
- * Author URI:			https://oqtavesolutions.com/
- * License:				GPL v2 or later
- * License URI:			https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:			https://oqtavesolutions.com/plugin/
+ * Plugin Name:         Oqtave Custom Ticker
+ * Plugin URI:          https://oqtavesolutions.com/
+ * Description:         Oqtave Custom Ticker is a wordpress plugin for custom tickers.
+ * Version:             0.1.3
+ * Requires at least:   5.2
+ * Requires PHP:        7.2
+ * Author:              Oqtave Solutions
+ * Author URI:          https://oqtavesolutions.com/
+ * License:				Apache License (Version 2.0, January 2004)
+ * License URI:			https://www.apache.org/licenses/LICENSE-2.0.txt
+ * Update URI:			https://oqtavesolutions.com/plugins/
  * Text Domain:         oqtave-custom-ticker
  * Domain Path:
  */
