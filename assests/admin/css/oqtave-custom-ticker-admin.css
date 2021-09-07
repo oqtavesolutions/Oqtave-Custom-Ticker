@@ -1,0 +1,35 @@
+/* data table  */
+.oqtave-custom-ticker-wrapper {
+    max-width: 99%;
+}
+
+/* datatable #id */
+table.dataTable thead .sorting_asc {
+    max-width: 20px;
+}
+
+/* text input filed */
+#oqtave-custom-ticker-text-input {
+    width: 99%;
+}
+
+/* url input filed */
+#oqtave-custom-ticker-url-input {
+    width: 99%;
+}
+
+/* action delete button */
+.delete_ticker {
+    background: red;
+    color: black;
+    padding: 0.3rem;
+    border-radius: 5%;
+}
+
+/* action edit button */
+.edit_ticker {
+    background: yellow;
+    color: black;
+    padding: 0.3rem;
+    border-radius: 5%;
+}
