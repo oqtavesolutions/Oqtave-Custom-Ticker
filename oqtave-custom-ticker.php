@@ -8,9 +8,9 @@
  * Requires PHP:        7.2
  * Author:              Oqtave Solutions
  * Author URI:          https://oqtavesolutions.com/
- * License:				Apache License (Version 2.0, January 2004)
- * License URI:			https://www.apache.org/licenses/LICENSE-2.0.txt
- * Update URI:			https://oqtavesolutions.com/plugins/
+ * License:             Apache License (Version 2.0, January 2004)
+ * License URI:         https://www.apache.org/licenses/LICENSE-2.0.txt
+ * Update URI:          https://oqtavesolutions.com/plugins/
  * Text Domain:         oqtave-custom-ticker
  * Domain Path:
  */
